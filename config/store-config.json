@@ -1,0 +1,26 @@
+{
+  "STORE_ID": "SHOP-20260907-191227-AF64C5",
+  "SHOP_NAME": "ข้าวแกงตามสั่ง",
+  "PROVIDER": "Wichai",
+  "LIFF_ID": "",
+  "LIFF_URL": "",
+  "API_URL": "",
+  "GITHUB_OWNER": "jaiharn55-cloud",
+  "GITHUB_REPO": "food-order-khaokaeng",
+  "GITHUB_BRANCH": "main",
+  "GITHUB_IMAGE_DIR": "images/menu",
+  "LINE_LOGIN_CHANNEL_ID": "",
+  "LINE_MESSAGING_CHANNEL_ID": "",
+  "PAYMENT": {
+    "CASH_ACTIVE": true,
+    "PROMPTPAY_ACTIVE": true,
+    "GOVERNMENT_ACTIVE": false
+  },
+  "PICKUP": {
+    "START": "08:00",
+    "END": "17:00",
+    "INTERVAL_MIN": 20,
+    "CAPACITY": 10
+  },
+  "STATUS": "PROVISIONED"
+}
